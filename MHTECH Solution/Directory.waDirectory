@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><directory>
+
+<group ID="01000000000000000000000000000000" name="Admin">
+
+	<include user="mhe" ID="9B2ECDD45DFBF749BDC816E496150608"/>
+</group>
+
+<user ID="9B2ECDD45DFBF749BDC816E496150608" name="mhe" fullName="Michael Heider" password="568bff9ea6de8018e819ca6ac848798b"/>
+</directory>
